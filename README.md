@@ -19,7 +19,7 @@ akses dari mana saja.
 • Modifier private akan membuat (atribut dan method) hanya bisa diakses
 oleh dari dalam class itu sendiri
 • Modifier protected akan membuat (atribut dan method) dan class hanya bisa diakses dari:
-1. Class itu sendiri;
-2. Sub class atau class anak;
-3. Package (class yang berada satu package dengannya).
-4. hanya boleh digunakan pada member saja.
+Class itu sendiri;
+Sub class atau class anak;
+Package (class yang berada satu package dengannya).
+hanya boleh digunakan pada member saja.
